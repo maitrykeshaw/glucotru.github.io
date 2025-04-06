@@ -1,1 +1,1 @@
-# glucotru.github.io
+# https://glucotru.vercel.app
