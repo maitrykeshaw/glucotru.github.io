@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"GlucoTru™ | USA Official | 100% Natural And Pure",
+  "short_name":"GlucoTru™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"GlucoTru is an all-natural supplement designed to support healthy blood sugar levels, glucose metabolism, and healthy weight management.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
